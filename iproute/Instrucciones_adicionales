@@ -7,7 +7,7 @@ PARTE OBLIGATÓRIA
 	
 PARTE OPCIONAL
 
-	-Por el hecho de haver añadido la cola en eth2 mencionada anteriormente en el opcional deberemos eliminarla.
+	-Por el hecho de haber añadido la cola en eth2 mencionada anteriormente en el opcional deberemos eliminarla.
 	-También es necesario que primero se ejecute el fichero configuraSubXarxes.sh en el router para añadir la regla en eth2 pertinente
 	dado que en activaAmpleDeBanda.sh volvemos a añadir reglas para identificar el tráfico mediante realm para redirigirlo a las colas.
 	
