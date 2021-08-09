@@ -1,0 +1,14 @@
+
+PARTE OBLIGATÓRIA
+	
+	-Se ha añadido una cola adicional eth2 para limitar el tráfico hacia las estaciones desde el router.
+	Fichero activaAmpleDeBanda.sh
+
+	
+PARTE OPCIONAL
+
+	-Por el hecho de haver añadido la cola en eth2 mencionada anteriormente en el opcional deberemos eliminarla.
+	-También es necesario que primero se ejecute el fichero configuraSubXarxes.sh en el router para añadir la regla en eth2 pertinente
+	dado que en activaAmpleDeBanda.sh volvemos a añadir reglas para identificar el tráfico mediante realm para redirigirlo a las colas.
+	
+	
